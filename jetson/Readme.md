@@ -1,7 +1,7 @@
 #### Use the following command onnx2trt:
 
 ```python
-python3 onn2trt.py --model yolov5m-sim
+python3 onnx2trt.py --model yolov5m-sim
 ```
 
 #### Use the following command to execute the TRT file：
